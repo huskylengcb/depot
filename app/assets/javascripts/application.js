@@ -14,6 +14,6 @@
 //= require activestorage
 //= require turbolinks
 //= require jquery
-//= require jquery_ujs
+//= require jquery-ui/effects/effect-blind
 //= require kindeditor
 //= require_tree .
